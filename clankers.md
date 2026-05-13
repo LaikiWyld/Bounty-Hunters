@@ -13,8 +13,8 @@ Automated tracking of all Clankers PR contributors.
 | suhail-ak-2 | 13 | 2026-05-13 |
 | MNgaminhhh | 13 | 2026-05-13 |
 | zeppnyc | 12 | 2026-05-13 |
+| callmekidz | 12 | 2026-05-13 |
 | Ahmadkhattak1 | 11 | 2026-05-13 |
-| callmekidz | 11 | 2026-05-13 |
 | albayrakburak55 | 9 | 2026-05-13 |
 | ChienNguyen23 | 8 | 2026-05-13 |
 | Mburdo | 7 | 2026-05-13 |
