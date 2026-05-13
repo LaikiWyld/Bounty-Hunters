@@ -3,6 +3,7 @@
 Automated tracking of all Clankers PR contributors.
 
 | Username | Total PRs | First PR |
+|----------|-----------|----------|
 | weilixiong | 32 | 2026-05-13 |
 | jynbil1 | 31 | 2026-05-13 |
 | Sasidhar-Sunkesula | 27 | 2026-05-13 |
@@ -20,10 +21,10 @@ Automated tracking of all Clankers PR contributors.
 | Mermaid-Man | 3 | 2026-05-13 |
 | Homie4570 | 3 | 2026-05-13 |
 | AidenPeerce | 3 | 2026-05-13 |
+| albayrakburak55 | 3 | 2026-05-13 |
 | tuvmdainam | 2 | 2026-05-13 |
 | iice257 | 2 | 2026-05-13 |
 | davguij | 2 | 2026-05-13 |
-| albayrakburak55 | 2 | 2026-05-13 |
 | SebnemC | 2 | 2026-05-13 |
 | Saumya-Verma123 | 2 | 2026-05-13 |
 | woairenzhi | 1 | 2026-05-13 |
@@ -47,4 +48,3 @@ Automated tracking of all Clankers PR contributors.
 | LittleK-513 | 1 | 2026-05-13 |
 | KentoYoung | 1 | 2026-05-13 |
 | 694410194 | 1 | 2026-05-13 |
-|----------|-----------|----------|
