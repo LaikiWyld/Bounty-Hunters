@@ -78,6 +78,12 @@
     "last_pr": "2026-05-15T00:54:32.550Z"
   },
   {
+    "username": "arthurus36-alt",
+    "total_prs": 37,
+    "first_pr": "2026-05-18T13:52:17.760Z",
+    "last_pr": "2026-05-19T21:36:41.010Z"
+  },
+  {
     "username": "oocheol",
     "total_prs": 37,
     "first_pr": "2026-05-18T08:53:21.999Z",
@@ -106,12 +112,6 @@
     "total_prs": 27,
     "first_pr": "2026-05-13T07:00:24Z",
     "last_pr": "2026-05-13T08:21:26Z"
-  },
-  {
-    "username": "arthurus36-alt",
-    "total_prs": 27,
-    "first_pr": "2026-05-18T13:52:17.760Z",
-    "last_pr": "2026-05-19T20:05:29.833Z"
   },
   {
     "username": "xlocalvn-svg",
@@ -702,6 +702,12 @@
     "last_pr": "2026-05-17T04:53:33.646Z"
   },
   {
+    "username": "houyiai",
+    "total_prs": 3,
+    "first_pr": "2026-05-19T12:21:34.426Z",
+    "last_pr": "2026-05-19T21:49:59.693Z"
+  },
+  {
     "username": "huthoinguyn",
     "total_prs": 3,
     "first_pr": "2026-05-13T08:10:47Z",
@@ -798,12 +804,6 @@
     "last_pr": "2026-05-19T11:51:29.084Z"
   },
   {
-    "username": "houyiai",
-    "total_prs": 2,
-    "first_pr": "2026-05-19T12:21:34.426Z",
-    "last_pr": "2026-05-19T13:22:58.040Z"
-  },
-  {
     "username": "showmara",
     "total_prs": 2,
     "first_pr": "2026-05-19T13:41:31.330Z",
@@ -814,6 +814,12 @@
     "total_prs": 2,
     "first_pr": "2026-05-18T14:33:02.087Z",
     "last_pr": "2026-05-19T13:54:03.703Z"
+  },
+  {
+    "username": "antrom99",
+    "total_prs": 2,
+    "first_pr": "2026-05-19T18:41:37.964Z",
+    "last_pr": "2026-05-19T21:40:28.346Z"
   },
   {
     "username": "kingskuan",
@@ -1140,12 +1146,6 @@
     "last_pr": "2026-05-19T17:55:44.991Z"
   },
   {
-    "username": "antrom99",
-    "total_prs": 1,
-    "first_pr": "2026-05-19T18:41:37.964Z",
-    "last_pr": "2026-05-19T18:41:37.964Z"
-  },
-  {
     "username": "MichisGitIsKing",
     "total_prs": 1,
     "first_pr": "2026-05-17T14:46:14.182Z",
@@ -1192,5 +1192,11 @@
     "total_prs": 1,
     "first_pr": "2026-05-19T14:37:03.947Z",
     "last_pr": "2026-05-19T14:37:03.947Z"
+  },
+  {
+    "username": "s2530786-cell",
+    "total_prs": 1,
+    "first_pr": "2026-05-19T20:57:07.348Z",
+    "last_pr": "2026-05-19T20:57:07.348Z"
   }
 ]
