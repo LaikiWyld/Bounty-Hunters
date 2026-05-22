@@ -480,6 +480,12 @@
     "last_pr": "2026-05-21T11:08:20.110Z"
   },
   {
+    "username": "genesisrevelationinc-debug",
+    "total_prs": 6,
+    "first_pr": "2026-05-22T14:02:27.948Z",
+    "last_pr": "2026-05-22T19:41:19.465Z"
+  },
+  {
     "username": "FJ-CX",
     "total_prs": 5,
     "first_pr": "2026-05-13T15:11:20Z",
@@ -586,12 +592,6 @@
     "total_prs": 5,
     "first_pr": "2026-05-19T12:21:34.426Z",
     "last_pr": "2026-05-22T16:59:19.961Z"
-  },
-  {
-    "username": "genesisrevelationinc-debug",
-    "total_prs": 5,
-    "first_pr": "2026-05-22T14:02:27.948Z",
-    "last_pr": "2026-05-22T19:37:53.372Z"
   },
   {
     "username": "spqrcode",
