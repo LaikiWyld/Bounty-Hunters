@@ -552,6 +552,12 @@
     "last_pr": "2026-05-24T02:06:27.996Z"
   },
   {
+    "username": "charlie12520",
+    "total_prs": 6,
+    "first_pr": "2026-05-27T01:01:34.935Z",
+    "last_pr": "2026-05-27T01:31:21.630Z"
+  },
+  {
     "username": "FJ-CX",
     "total_prs": 5,
     "first_pr": "2026-05-13T15:11:20Z",
@@ -658,12 +664,6 @@
     "total_prs": 5,
     "first_pr": "2026-05-21T12:33:57.774Z",
     "last_pr": "2026-05-24T21:07:13.820Z"
-  },
-  {
-    "username": "charlie12520",
-    "total_prs": 5,
-    "first_pr": "2026-05-27T01:01:34.935Z",
-    "last_pr": "2026-05-27T01:26:16.202Z"
   },
   {
     "username": "spqrcode",
