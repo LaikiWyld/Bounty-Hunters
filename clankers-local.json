@@ -624,6 +624,12 @@
     "last_pr": "2026-05-27T02:17:30.464Z"
   },
   {
+    "username": "ManmohanBuildsProducts",
+    "total_prs": 6,
+    "first_pr": "2026-05-30T05:02:39.115Z",
+    "last_pr": "2026-05-30T05:36:22.586Z"
+  },
+  {
     "username": "FJ-CX",
     "total_prs": 5,
     "first_pr": "2026-05-13T15:11:20Z",
@@ -736,12 +742,6 @@
     "total_prs": 5,
     "first_pr": "2026-05-26T10:06:55.143Z",
     "last_pr": "2026-05-27T10:42:53.642Z"
-  },
-  {
-    "username": "ManmohanBuildsProducts",
-    "total_prs": 5,
-    "first_pr": "2026-05-30T05:02:39.115Z",
-    "last_pr": "2026-05-30T05:27:06.682Z"
   },
   {
     "username": "spqrcode",
