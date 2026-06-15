@@ -126,6 +126,12 @@
     "last_pr": "2026-05-19T00:58:17.880Z"
   },
   {
+    "username": "abdrassulov",
+    "total_prs": 53,
+    "first_pr": "2026-06-11T23:49:35.086Z",
+    "last_pr": "2026-06-15T16:50:01.638Z"
+  },
+  {
     "username": "zhangjiayang6835-cyber",
     "total_prs": 51,
     "first_pr": "2026-05-26T17:33:54.308Z",
@@ -142,12 +148,6 @@
     "total_prs": 50,
     "first_pr": "2026-05-16T16:21:06.703Z",
     "last_pr": "2026-05-19T03:50:18.098Z"
-  },
-  {
-    "username": "abdrassulov",
-    "total_prs": 46,
-    "first_pr": "2026-06-11T23:49:35.086Z",
-    "last_pr": "2026-06-14T22:29:31.297Z"
   },
   {
     "username": "KK88100",
@@ -1668,6 +1668,12 @@
     "last_pr": "2026-06-13T10:43:47.882Z"
   },
   {
+    "username": "Eudes-Crabe",
+    "total_prs": 2,
+    "first_pr": "2026-05-17T10:29:32.959Z",
+    "last_pr": "2026-06-15T16:05:25.203Z"
+  },
+  {
     "username": "kingskuan",
     "total_prs": 2,
     "first_pr": "2026-05-15T14:10:31.174Z",
@@ -1960,12 +1966,6 @@
     "total_prs": 1,
     "first_pr": "2026-05-16T21:53:14.467Z",
     "last_pr": "2026-05-16T21:53:14.467Z"
-  },
-  {
-    "username": "Eudes-Crabe",
-    "total_prs": 1,
-    "first_pr": "2026-05-17T10:29:32.959Z",
-    "last_pr": "2026-05-17T10:29:32.959Z"
   },
   {
     "username": "vanhci",
