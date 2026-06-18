@@ -1476,6 +1476,12 @@
     "last_pr": "2026-06-18T01:02:35.735Z"
   },
   {
+    "username": "aaavvsdfsd",
+    "total_prs": 2,
+    "first_pr": "2026-06-18T20:03:37.703Z",
+    "last_pr": "2026-06-18T20:04:11.650Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2098,11 +2104,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-18T16:31:08.499Z",
     "last_pr": "2026-06-18T16:31:08.499Z"
-  },
-  {
-    "username": "aaavvsdfsd",
-    "total_prs": 1,
-    "first_pr": "2026-06-18T20:03:37.703Z",
-    "last_pr": "2026-06-18T20:03:37.703Z"
   }
 ]
