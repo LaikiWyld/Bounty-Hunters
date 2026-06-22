@@ -1536,6 +1536,12 @@
     "last_pr": "2026-06-22T05:22:59.751Z"
   },
   {
+    "username": "slimezpapwita50",
+    "total_prs": 2,
+    "first_pr": "2026-06-22T06:37:43.950Z",
+    "last_pr": "2026-06-22T06:37:56.887Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2152,11 +2158,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-20T23:30:15.042Z",
     "last_pr": "2026-06-20T23:30:15.042Z"
-  },
-  {
-    "username": "slimezpapwita50",
-    "total_prs": 1,
-    "first_pr": "2026-06-22T06:37:43.950Z",
-    "last_pr": "2026-06-22T06:37:43.950Z"
   }
 ]
