@@ -804,6 +804,12 @@
     "last_pr": "2026-06-05T12:43:00.167Z"
   },
   {
+    "username": "wulansari999",
+    "total_prs": 8,
+    "first_pr": "2026-06-22T01:36:35.500Z",
+    "last_pr": "2026-06-22T02:41:24.207Z"
+  },
+  {
     "username": "GautamKumarOffical",
     "total_prs": 8,
     "first_pr": "2026-06-19T08:53:02.388Z",
@@ -1006,6 +1012,12 @@
     "total_prs": 6,
     "first_pr": "2026-05-30T12:25:53.193Z",
     "last_pr": "2026-06-19T22:21:08.804Z"
+  },
+  {
+    "username": "zackliao986",
+    "total_prs": 6,
+    "first_pr": "2026-06-22T01:54:34.461Z",
+    "last_pr": "2026-06-22T02:25:16.872Z"
   },
   {
     "username": "soongyintong",
@@ -1516,6 +1528,12 @@
     "total_prs": 3,
     "first_pr": "2026-06-17T16:08:33.546Z",
     "last_pr": "2026-06-17T16:18:43.700Z"
+  },
+  {
+    "username": "coclock",
+    "total_prs": 3,
+    "first_pr": "2026-06-19T04:13:26.197Z",
+    "last_pr": "2026-06-22T02:42:42.445Z"
   },
   {
     "username": "huthoinguyn",
@@ -2398,12 +2416,6 @@
     "total_prs": 1,
     "first_pr": "2026-06-18T04:49:32.171Z",
     "last_pr": "2026-06-18T04:49:32.171Z"
-  },
-  {
-    "username": "coclock",
-    "total_prs": 1,
-    "first_pr": "2026-06-19T04:13:26.197Z",
-    "last_pr": "2026-06-19T04:13:26.197Z"
   },
   {
     "username": "MichisGitIsKing",
