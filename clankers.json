@@ -84,6 +84,12 @@
     "last_pr": "2026-05-17T14:06:21.377Z"
   },
   {
+    "username": "gtx20060124-bot",
+    "total_prs": 73,
+    "first_pr": "2026-06-22T04:34:36.546Z",
+    "last_pr": "2026-06-23T06:40:14.808Z"
+  },
+  {
     "username": "simisdav55-oss",
     "total_prs": 72,
     "first_pr": "2026-05-26T16:25:52.518Z",
@@ -100,6 +106,12 @@
     "total_prs": 69,
     "first_pr": "2026-05-18T08:53:21.999Z",
     "last_pr": "2026-06-09T07:36:51.538Z"
+  },
+  {
+    "username": "SKYJAMES777",
+    "total_prs": 68,
+    "first_pr": "2026-06-22T13:02:49.651Z",
+    "last_pr": "2026-06-23T03:48:07.889Z"
   },
   {
     "username": "BossChaos",
@@ -126,12 +138,6 @@
     "last_pr": "2026-05-17T14:08:03.577Z"
   },
   {
-    "username": "SKYJAMES777",
-    "total_prs": 55,
-    "first_pr": "2026-06-22T13:02:49.651Z",
-    "last_pr": "2026-06-22T14:42:43.035Z"
-  },
-  {
     "username": "lichen7567",
     "total_prs": 54,
     "first_pr": "2026-05-18T19:17:26.067Z",
@@ -142,12 +148,6 @@
     "total_prs": 51,
     "first_pr": "2026-05-26T17:33:54.308Z",
     "last_pr": "2026-05-29T03:08:23.211Z"
-  },
-  {
-    "username": "gtx20060124-bot",
-    "total_prs": 51,
-    "first_pr": "2026-06-22T04:34:36.546Z",
-    "last_pr": "2026-06-23T01:11:31.699Z"
   },
   {
     "username": "lb1192176991-lab",
@@ -366,6 +366,12 @@
     "last_pr": "2026-05-29T01:09:03.806Z"
   },
   {
+    "username": "wulansari999",
+    "total_prs": 19,
+    "first_pr": "2026-06-22T01:36:35.500Z",
+    "last_pr": "2026-06-23T05:49:27.048Z"
+  },
+  {
     "username": "shengtenghou4-star",
     "total_prs": 19,
     "first_pr": "2026-05-16T13:27:12.096Z",
@@ -436,12 +442,6 @@
     "total_prs": 16,
     "first_pr": "2026-05-29T11:24:15.035Z",
     "last_pr": "2026-06-03T13:50:13.670Z"
-  },
-  {
-    "username": "wulansari999",
-    "total_prs": 15,
-    "first_pr": "2026-06-22T01:36:35.500Z",
-    "last_pr": "2026-06-22T13:53:05.276Z"
   },
   {
     "username": "callmekidz",
