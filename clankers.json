@@ -13,9 +13,9 @@
   },
   {
     "username": "gtx20060124-bot",
-    "total_prs": 150,
+    "total_prs": 155,
     "first_pr": "2026-06-22T04:34:36.546Z",
-    "last_pr": "2026-06-24T17:30:45.066Z"
+    "last_pr": "2026-06-25T04:09:32.859Z"
   },
   {
     "username": "JirA44",
@@ -84,6 +84,12 @@
     "last_pr": "2026-06-06T05:39:28.019Z"
   },
   {
+    "username": "abdrassulov",
+    "total_prs": 75,
+    "first_pr": "2026-06-11T23:49:35.086Z",
+    "last_pr": "2026-06-25T00:51:18.182Z"
+  },
+  {
     "username": "D3CC",
     "total_prs": 74,
     "first_pr": "2026-05-16T11:56:16.051Z",
@@ -94,12 +100,6 @@
     "total_prs": 72,
     "first_pr": "2026-05-26T16:25:52.518Z",
     "last_pr": "2026-05-28T13:12:27.029Z"
-  },
-  {
-    "username": "abdrassulov",
-    "total_prs": 69,
-    "first_pr": "2026-06-11T23:49:35.086Z",
-    "last_pr": "2026-06-16T17:00:18.061Z"
   },
   {
     "username": "oocheol",
@@ -318,6 +318,12 @@
     "last_pr": "2026-06-12T11:52:38.580Z"
   },
   {
+    "username": "Shaidyk",
+    "total_prs": 22,
+    "first_pr": "2026-06-18T16:31:08.499Z",
+    "last_pr": "2026-06-25T04:28:26.669Z"
+  },
+  {
     "username": "barnacleagent-svg",
     "total_prs": 22,
     "first_pr": "2026-05-30T07:09:25.857Z",
@@ -358,12 +364,6 @@
     "total_prs": 20,
     "first_pr": "2026-05-16T04:01:59.508Z",
     "last_pr": "2026-05-16T09:45:46.427Z"
-  },
-  {
-    "username": "Shaidyk",
-    "total_prs": 20,
-    "first_pr": "2026-06-18T16:31:08.499Z",
-    "last_pr": "2026-06-24T19:21:30.157Z"
   },
   {
     "username": "nkar123412-hub",
