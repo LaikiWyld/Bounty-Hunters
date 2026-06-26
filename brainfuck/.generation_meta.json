@@ -1,0 +1,5 @@
+{
+  "agent": "OpenAI Codex",
+  "initial_directives": "OpenAI Codex was used to implement and verify this bounty. Private system, developer, and runtime instructions are intentionally not published in repository files or PR text.",
+  "date": "2026-06-26T15:20:00+08:00"
+}
