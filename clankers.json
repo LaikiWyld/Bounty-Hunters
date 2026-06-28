@@ -55,9 +55,9 @@
   },
   {
     "username": "genesisrevelationinc-debug",
-    "total_prs": 101,
+    "total_prs": 103,
     "first_pr": "2026-05-22T14:02:27.948Z",
-    "last_pr": "2026-06-26T13:08:18.939Z"
+    "last_pr": "2026-06-28T22:04:33.707Z"
   },
   {
     "username": "xyjk0511",
@@ -288,6 +288,12 @@
     "last_pr": "2026-06-27T06:48:09.214Z"
   },
   {
+    "username": "Shaidyk",
+    "total_prs": 26,
+    "first_pr": "2026-06-18T16:31:08.499Z",
+    "last_pr": "2026-06-28T22:12:09.692Z"
+  },
+  {
     "username": "jjb9707",
     "total_prs": 26,
     "first_pr": "2026-05-28T13:18:17.856Z",
@@ -298,12 +304,6 @@
     "total_prs": 25,
     "first_pr": "2026-05-21T03:57:29.019Z",
     "last_pr": "2026-05-21T06:47:36.509Z"
-  },
-  {
-    "username": "Shaidyk",
-    "total_prs": 25,
-    "first_pr": "2026-06-18T16:31:08.499Z",
-    "last_pr": "2026-06-28T21:26:48.035Z"
   },
   {
     "username": "lry3069-afk",
@@ -1002,6 +1002,12 @@
     "last_pr": "2026-06-22T06:38:52.230Z"
   },
   {
+    "username": "mircats98gpt",
+    "total_prs": 7,
+    "first_pr": "2026-06-26T15:51:20.540Z",
+    "last_pr": "2026-06-28T22:58:56.475Z"
+  },
+  {
     "username": "Ishant5436",
     "total_prs": 7,
     "first_pr": "2026-05-21T11:17:38.892Z",
@@ -1240,12 +1246,6 @@
     "total_prs": 5,
     "first_pr": "2026-06-26T15:37:28.769Z",
     "last_pr": "2026-06-26T15:47:57.839Z"
-  },
-  {
-    "username": "mircats98gpt",
-    "total_prs": 5,
-    "first_pr": "2026-06-26T15:51:20.540Z",
-    "last_pr": "2026-06-28T14:53:56.382Z"
   },
   {
     "username": "Alex-2Code",
@@ -2548,6 +2548,12 @@
     "total_prs": 1,
     "first_pr": "2026-06-28T06:56:48.448Z",
     "last_pr": "2026-06-28T06:56:48.448Z"
+  },
+  {
+    "username": "wisdom518",
+    "total_prs": 1,
+    "first_pr": "2026-06-28T22:29:32.501Z",
+    "last_pr": "2026-06-28T22:29:32.501Z"
   },
   {
     "username": "MichisGitIsKing",
