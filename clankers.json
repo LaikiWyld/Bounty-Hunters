@@ -1986,6 +1986,12 @@
     "last_pr": "2026-07-02T14:15:13.295Z"
   },
   {
+    "username": "dev-nana27",
+    "total_prs": 2,
+    "first_pr": "2026-07-03T21:51:31.376Z",
+    "last_pr": "2026-07-03T23:41:37.809Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2782,11 +2788,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-26T07:27:38.579Z",
     "last_pr": "2026-06-26T07:27:38.579Z"
-  },
-  {
-    "username": "dev-nana27",
-    "total_prs": 1,
-    "first_pr": "2026-07-03T21:51:31.376Z",
-    "last_pr": "2026-07-03T21:51:31.376Z"
   }
 ]
