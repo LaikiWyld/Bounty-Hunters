@@ -1464,6 +1464,12 @@
     "last_pr": "2026-07-06T02:32:59.576Z"
   },
   {
+    "username": "FhiPunkVn",
+    "total_prs": 4,
+    "first_pr": "2026-07-11T04:07:39.443Z",
+    "last_pr": "2026-07-11T06:30:25.785Z"
+  },
+  {
     "username": "Aaloklovanshi",
     "total_prs": 4,
     "first_pr": "2026-06-07T16:35:45.376Z",
@@ -2700,12 +2706,6 @@
     "last_pr": "2026-07-08T08:23:20.932Z"
   },
   {
-    "username": "FhiPunkVn",
-    "total_prs": 1,
-    "first_pr": "2026-07-11T04:07:39.443Z",
-    "last_pr": "2026-07-11T04:07:39.443Z"
-  },
-  {
     "username": "MichisGitIsKing",
     "total_prs": 1,
     "first_pr": "2026-05-17T14:46:14.182Z",
@@ -2866,5 +2866,11 @@
     "total_prs": 1,
     "first_pr": "2026-06-26T07:27:38.579Z",
     "last_pr": "2026-06-26T07:27:38.579Z"
+  },
+  {
+    "username": "lushan888",
+    "total_prs": 1,
+    "first_pr": "2026-07-11T05:52:43.449Z",
+    "last_pr": "2026-07-11T05:52:43.449Z"
   }
 ]
