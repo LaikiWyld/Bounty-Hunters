@@ -1734,6 +1734,12 @@
     "last_pr": "2026-07-03T22:27:55.454Z"
   },
   {
+    "username": "key1989han",
+    "total_prs": 3,
+    "first_pr": "2026-07-12T22:47:06.105Z",
+    "last_pr": "2026-07-13T04:11:23.109Z"
+  },
+  {
     "username": "huthoinguyn",
     "total_prs": 3,
     "first_pr": "2026-05-13T08:10:47Z",
@@ -2734,12 +2740,6 @@
     "total_prs": 1,
     "first_pr": "2026-07-12T10:04:42.871Z",
     "last_pr": "2026-07-12T10:04:42.871Z"
-  },
-  {
-    "username": "key1989han",
-    "total_prs": 1,
-    "first_pr": "2026-07-12T22:47:06.105Z",
-    "last_pr": "2026-07-12T22:47:06.105Z"
   },
   {
     "username": "MichisGitIsKing",
