@@ -13,9 +13,9 @@
   },
   {
     "username": "ardha27",
-    "total_prs": 158,
+    "total_prs": 160,
     "first_pr": "2026-07-13T09:46:17.539Z",
-    "last_pr": "2026-07-14T20:50:20.865Z"
+    "last_pr": "2026-07-14T20:54:17.026Z"
   },
   {
     "username": "gtx20060124-bot",
@@ -790,6 +790,12 @@
     "total_prs": 10,
     "first_pr": "2026-07-03T21:51:31.376Z",
     "last_pr": "2026-07-05T08:09:21.757Z"
+  },
+  {
+    "username": "elevasyncsolutions-jpg",
+    "total_prs": 10,
+    "first_pr": "2026-07-14T21:11:53.419Z",
+    "last_pr": "2026-07-14T21:17:02.316Z"
   },
   {
     "username": "digzrow-coder",
