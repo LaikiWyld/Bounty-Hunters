@@ -342,6 +342,12 @@
     "last_pr": "2026-06-02T03:18:25.298Z"
   },
   {
+    "username": "elevasyncsolutions-jpg",
+    "total_prs": 24,
+    "first_pr": "2026-07-14T21:11:53.419Z",
+    "last_pr": "2026-07-20T05:17:33.285Z"
+  },
+  {
     "username": "Xiaoqiang-Huang",
     "total_prs": 23,
     "first_pr": "2026-05-15T17:11:10.002Z",
@@ -496,12 +502,6 @@
     "total_prs": 16,
     "first_pr": "2026-05-29T11:24:15.035Z",
     "last_pr": "2026-06-03T13:50:13.670Z"
-  },
-  {
-    "username": "elevasyncsolutions-jpg",
-    "total_prs": 16,
-    "first_pr": "2026-07-14T21:11:53.419Z",
-    "last_pr": "2026-07-20T02:10:39.526Z"
   },
   {
     "username": "singularitycurse26-svg",
@@ -2782,6 +2782,12 @@
     "total_prs": 1,
     "first_pr": "2026-07-12T10:04:42.871Z",
     "last_pr": "2026-07-12T10:04:42.871Z"
+  },
+  {
+    "username": "ninghuagui-debug",
+    "total_prs": 1,
+    "first_pr": "2026-07-20T04:47:08.492Z",
+    "last_pr": "2026-07-20T04:47:08.492Z"
   },
   {
     "username": "MichisGitIsKing",
