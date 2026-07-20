@@ -1764,6 +1764,12 @@
     "last_pr": "2026-07-20T08:42:09.222Z"
   },
   {
+    "username": "ninghuagui-debug",
+    "total_prs": 2,
+    "first_pr": "2026-07-20T04:47:08.492Z",
+    "last_pr": "2026-07-20T10:10:44.577Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2446,12 +2452,6 @@
     "total_prs": 1,
     "first_pr": "2026-07-17T22:07:27.277Z",
     "last_pr": "2026-07-17T22:07:27.277Z"
-  },
-  {
-    "username": "ninghuagui-debug",
-    "total_prs": 1,
-    "first_pr": "2026-07-20T04:47:08.492Z",
-    "last_pr": "2026-07-20T04:47:08.492Z"
   },
   {
     "username": "cornerblue",
