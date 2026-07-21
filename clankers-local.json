@@ -1776,6 +1776,12 @@
     "last_pr": "2026-07-20T10:10:44.577Z"
   },
   {
+    "username": "zfurl",
+    "total_prs": 2,
+    "first_pr": "2026-07-21T09:31:07.134Z",
+    "last_pr": "2026-07-21T09:31:17.083Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2458,11 +2464,5 @@
     "total_prs": 1,
     "first_pr": "2026-07-17T22:07:27.277Z",
     "last_pr": "2026-07-17T22:07:27.277Z"
-  },
-  {
-    "username": "zfurl",
-    "total_prs": 1,
-    "first_pr": "2026-07-21T09:31:07.134Z",
-    "last_pr": "2026-07-21T09:31:07.134Z"
   }
 ]
