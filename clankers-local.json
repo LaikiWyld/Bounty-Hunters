@@ -972,6 +972,12 @@
     "last_pr": "2026-06-24T13:02:26.745Z"
   },
   {
+    "username": "zfurl",
+    "total_prs": 6,
+    "first_pr": "2026-07-21T09:31:07.134Z",
+    "last_pr": "2026-07-21T09:33:48.510Z"
+  },
+  {
     "username": "FJ-CX",
     "total_prs": 5,
     "first_pr": "2026-05-13T15:11:20Z",
@@ -1108,12 +1114,6 @@
     "total_prs": 5,
     "first_pr": "2026-07-12T22:47:06.105Z",
     "last_pr": "2026-07-15T20:33:14.254Z"
-  },
-  {
-    "username": "zfurl",
-    "total_prs": 5,
-    "first_pr": "2026-07-21T09:31:07.134Z",
-    "last_pr": "2026-07-21T09:33:27.977Z"
   },
   {
     "username": "spqrcode",
