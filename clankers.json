@@ -1812,6 +1812,12 @@
     "last_pr": "2026-07-03T22:27:55.454Z"
   },
   {
+    "username": "truongsontung",
+    "total_prs": 3,
+    "first_pr": "2026-07-22T05:26:45.041Z",
+    "last_pr": "2026-07-22T11:57:10.365Z"
+  },
+  {
     "username": "huthoinguyn",
     "total_prs": 3,
     "first_pr": "2026-05-13T08:10:47Z",
@@ -2806,12 +2812,6 @@
     "total_prs": 1,
     "first_pr": "2026-07-12T10:04:42.871Z",
     "last_pr": "2026-07-12T10:04:42.871Z"
-  },
-  {
-    "username": "truongsontung",
-    "total_prs": 1,
-    "first_pr": "2026-07-22T05:26:45.041Z",
-    "last_pr": "2026-07-22T05:26:45.041Z"
   },
   {
     "username": "MichisGitIsKing",
