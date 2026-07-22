@@ -1782,6 +1782,12 @@
     "last_pr": "2026-07-20T08:42:09.222Z"
   },
   {
+    "username": "truongsontung",
+    "total_prs": 2,
+    "first_pr": "2026-07-22T05:26:45.041Z",
+    "last_pr": "2026-07-22T11:47:30.710Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2464,11 +2470,5 @@
     "total_prs": 1,
     "first_pr": "2026-07-17T22:07:27.277Z",
     "last_pr": "2026-07-17T22:07:27.277Z"
-  },
-  {
-    "username": "truongsontung",
-    "total_prs": 1,
-    "first_pr": "2026-07-22T05:26:45.041Z",
-    "last_pr": "2026-07-22T05:26:45.041Z"
   }
 ]
