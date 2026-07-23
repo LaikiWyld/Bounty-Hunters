@@ -984,6 +984,12 @@
     "last_pr": "2026-07-21T09:33:48.510Z"
   },
   {
+    "username": "ninghuagui-debug",
+    "total_prs": 6,
+    "first_pr": "2026-07-20T04:47:08.492Z",
+    "last_pr": "2026-07-23T04:02:59.585Z"
+  },
+  {
     "username": "FJ-CX",
     "total_prs": 5,
     "first_pr": "2026-05-13T15:11:20Z",
@@ -1120,12 +1126,6 @@
     "total_prs": 5,
     "first_pr": "2026-07-12T22:47:06.105Z",
     "last_pr": "2026-07-15T20:33:14.254Z"
-  },
-  {
-    "username": "ninghuagui-debug",
-    "total_prs": 5,
-    "first_pr": "2026-07-20T04:47:08.492Z",
-    "last_pr": "2026-07-22T10:02:19.026Z"
   },
   {
     "username": "truongsontung",
