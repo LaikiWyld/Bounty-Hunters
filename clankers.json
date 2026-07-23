@@ -1218,6 +1218,12 @@
     "last_pr": "2026-07-21T09:33:48.510Z"
   },
   {
+    "username": "ninghuagui-debug",
+    "total_prs": 6,
+    "first_pr": "2026-07-20T04:47:08.492Z",
+    "last_pr": "2026-07-23T04:02:59.585Z"
+  },
+  {
     "username": "soongyintong",
     "total_prs": 6,
     "first_pr": "2026-05-16T23:47:04.809Z",
@@ -1384,12 +1390,6 @@
     "total_prs": 5,
     "first_pr": "2026-07-12T22:47:06.105Z",
     "last_pr": "2026-07-15T20:33:14.254Z"
-  },
-  {
-    "username": "ninghuagui-debug",
-    "total_prs": 5,
-    "first_pr": "2026-07-20T04:47:08.492Z",
-    "last_pr": "2026-07-22T10:02:19.026Z"
   },
   {
     "username": "truongsontung",
@@ -2812,6 +2812,18 @@
     "total_prs": 1,
     "first_pr": "2026-07-12T10:04:42.871Z",
     "last_pr": "2026-07-12T10:04:42.871Z"
+  },
+  {
+    "username": "emirhanempi5285-glitch",
+    "total_prs": 1,
+    "first_pr": "2026-07-23T02:40:22.817Z",
+    "last_pr": "2026-07-23T02:40:22.817Z"
+  },
+  {
+    "username": "mazenfarkouh580-netizen",
+    "total_prs": 1,
+    "first_pr": "2026-07-23T04:36:00.729Z",
+    "last_pr": "2026-07-23T04:36:00.729Z"
   },
   {
     "username": "MichisGitIsKing",
