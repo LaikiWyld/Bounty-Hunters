@@ -780,6 +780,12 @@
     "last_pr": "2026-07-21T15:42:17.249Z"
   },
   {
+    "username": "ninghuagui-debug",
+    "total_prs": 8,
+    "first_pr": "2026-07-20T04:47:08.492Z",
+    "last_pr": "2026-07-24T04:04:04.615Z"
+  },
+  {
     "username": "Mburdo",
     "total_prs": 7,
     "first_pr": "2026-05-13T15:20:17Z",
@@ -910,12 +916,6 @@
     "total_prs": 7,
     "first_pr": "2026-07-11T23:07:17.998Z",
     "last_pr": "2026-07-13T22:56:47.531Z"
-  },
-  {
-    "username": "ninghuagui-debug",
-    "total_prs": 7,
-    "first_pr": "2026-07-20T04:47:08.492Z",
-    "last_pr": "2026-07-23T10:02:33.615Z"
   },
   {
     "username": "TsukinowaRin",
