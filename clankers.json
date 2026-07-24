@@ -858,6 +858,12 @@
     "last_pr": "2026-07-13T01:20:38.836Z"
   },
   {
+    "username": "ninghuagui-debug",
+    "total_prs": 9,
+    "first_pr": "2026-07-20T04:47:08.492Z",
+    "last_pr": "2026-07-24T10:04:58.415Z"
+  },
+  {
     "username": "maojianian25-png",
     "total_prs": 9,
     "first_pr": "2026-06-14T18:53:07.511Z",
@@ -988,12 +994,6 @@
     "total_prs": 8,
     "first_pr": "2026-07-08T08:23:20.932Z",
     "last_pr": "2026-07-21T15:42:17.249Z"
-  },
-  {
-    "username": "ninghuagui-debug",
-    "total_prs": 8,
-    "first_pr": "2026-07-20T04:47:08.492Z",
-    "last_pr": "2026-07-24T04:04:04.615Z"
   },
   {
     "username": "Karry2019web",
@@ -2112,6 +2112,12 @@
     "last_pr": "2026-07-20T08:42:09.222Z"
   },
   {
+    "username": "hardcorexax-source",
+    "total_prs": 2,
+    "first_pr": "2026-07-24T07:14:10.323Z",
+    "last_pr": "2026-07-24T07:40:14.978Z"
+  },
+  {
     "username": "kingskuan",
     "total_prs": 2,
     "first_pr": "2026-05-15T14:10:31.174Z",
@@ -2824,12 +2830,6 @@
     "total_prs": 1,
     "first_pr": "2026-07-23T02:40:22.817Z",
     "last_pr": "2026-07-23T02:40:22.817Z"
-  },
-  {
-    "username": "hardcorexax-source",
-    "total_prs": 1,
-    "first_pr": "2026-07-24T07:14:10.323Z",
-    "last_pr": "2026-07-24T07:14:10.323Z"
   },
   {
     "username": "MichisGitIsKing",
